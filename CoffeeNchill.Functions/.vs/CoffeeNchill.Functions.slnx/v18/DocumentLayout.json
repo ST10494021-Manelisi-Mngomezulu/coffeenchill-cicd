@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|c:\\users\\emeris\\source\\repos\\coffeenchill.functions\\coffeenchill.functions\\functions\\menufunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|solutionrelative:coffeenchill.functions\\functions\\menufunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|c:\\users\\emeris\\source\\repos\\coffeenchill.functions\\coffeenchill.functions\\functions\\documentfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|solutionrelative:coffeenchill.functions\\functions\\documentfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|c:\\users\\emeris\\source\\repos\\coffeenchill.functions\\coffeenchill.functions\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|solutionrelative:coffeenchill.functions\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|c:\\users\\emeris\\source\\repos\\coffeenchill.functions\\coffeenchill.functions\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E04B7432-A133-71F0-3B25-48E1CCDA0793}|CoffeeNchill.Functions\\CoffeeNchill.Functions.csproj|solutionrelative:coffeenchill.functions\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Functions\\MenuFunctions.cs",
+              "RelativeDocumentMoniker": "CoffeeNchill.Functions\\Functions\\MenuFunctions.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Functions\\MenuFunctions.cs",
+              "RelativeToolTip": "CoffeeNchill.Functions\\Functions\\MenuFunctions.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:48:10.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Functions\\DocumentFunctions.cs",
+              "RelativeDocumentMoniker": "CoffeeNchill.Functions\\Functions\\DocumentFunctions.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Functions\\DocumentFunctions.cs",
+              "RelativeToolTip": "CoffeeNchill.Functions\\Functions\\DocumentFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:48:07.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "CoffeeNchill.Functions\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Models\\MenuItem.cs",
+              "RelativeToolTip": "CoffeeNchill.Functions\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:48:00.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Function1.cs",
+              "RelativeDocumentMoniker": "CoffeeNchill.Functions\\Function1.cs",
+              "ToolTip": "C:\\Users\\emeris\\source\\repos\\CoffeeNchill.Functions\\CoffeeNchill.Functions\\Function1.cs",
+              "RelativeToolTip": "CoffeeNchill.Functions\\Function1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T12:41:47.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
