@@ -1,0 +1,8 @@
+services:
+  functions:
+    image: ${DOCKERHUB_USERNAME}/coffeenchill-functions:latest
+    container_name: coffeenchill-functions
+    ports:
+      - "7071:80"
+    env_file: .env
+    restart: unless-stopped
