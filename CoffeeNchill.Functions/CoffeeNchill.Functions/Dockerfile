@@ -2,11 +2,11 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-COPY ["CoffeeNChill.Functions.csproj", "./"]
-RUN dotnet restore "CoffeeNChill.Functions.csproj"
+   COPY ["CoffeeNchill.Functions.csproj", "./"]
+      RUN dotnet restore "CoffeeNchill.Functions.csproj"
 
 COPY . .
-RUN dotnet publish "CoffeeNChill.Functions.csproj" -c Release -o /app/publish
+   RUN dotnet publish "CoffeeNchill.Functions.csproj" -c Release -o /app/publish
 
 # --- Runtime stage ---
 FROM mcr.microsoft.com/azure-functions/dotnet-isolated:4-dotnet-isolated8.0
